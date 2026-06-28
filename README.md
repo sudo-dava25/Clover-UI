@@ -29,7 +29,8 @@ local Clover = require(game.ReplicatedStorage.Clover)
 ### Method 2: Loadstring (Executors)
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/clover/main/init.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sudo-dav25/Clover-UI/main/init.lua
+"))()
 ```
 
 ## Quick Start
